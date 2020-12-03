@@ -20,7 +20,6 @@ public class Main {
         }
     }
 
-
     public static void calculateScore(){
         boolean gameOver = true;
         int score = 800;
